@@ -1,5 +1,7 @@
 function Home(){
-    return <>Ola mensagem correta</>
+    return <>Ola! Visitante.</>
+    return <>Imite um Lobo.</>
+    return <>e SORRIA!!!</>
 }
 
 export default Home;
