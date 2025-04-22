@@ -1,7 +1,5 @@
 function Home() {
-    return <h1><br>Ola! Visitante.</br><br>Imite um Lobo.</br><br>SORRIA!!!</br></h1>
+    return <h1>Ola! Visitante. Imite um Lobo. SORRIA!!!</h1>
 }
 
 export default Home;
-
-
